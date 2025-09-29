@@ -15,7 +15,7 @@ export default function RecentViolation() {
       location: 'Gate A',
       date: '2025-09-29',
       time: '14:30',
-      worker: 'John Doe',
+      worker: 'Abhinav',
       status: 'pending',
     },
     {
@@ -24,7 +24,7 @@ export default function RecentViolation() {
       location: 'Floor B',
       date: '2025-09-29',
       time: '13:15',
-      worker: 'Jane Smith',
+      worker: 'Ayush Raj',
       status: 'resolved',
     },
     {
@@ -33,7 +33,7 @@ export default function RecentViolation() {
       location: 'Warehouse',
       date: '2025-09-28',
       time: '16:45',
-      worker: 'Mike Johnson',
+      worker: 'Shubhi Kumari',
       status: 'pending',
     },
     {
@@ -42,7 +42,7 @@ export default function RecentViolation() {
       location: 'Production',
       date: '2025-09-28',
       time: '11:20',
-      worker: 'Sarah Wilson',
+      worker: 'Amanjeet Malik',
       status: 'resolved',
     },
   ];
